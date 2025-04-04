@@ -16,7 +16,7 @@ A Laravel-based application that manages cities and countries with currency info
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Juneict/country_currency.git
 cd code_test
 ```
 
